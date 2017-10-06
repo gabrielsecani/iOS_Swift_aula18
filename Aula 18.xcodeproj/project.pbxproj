@@ -14,6 +14,7 @@
 		AC597DE71F86F1FD007A3C7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC597DE51F86F1FD007A3C7B /* LaunchScreen.storyboard */; };
 		AC597DF21F86F1FD007A3C7B /* Aula_18Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC597DF11F86F1FD007A3C7B /* Aula_18Tests.swift */; };
 		AC597DFD1F86F1FD007A3C7B /* Aula_18UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC597DFC1F86F1FD007A3C7B /* Aula_18UITests.swift */; };
+		AC597E0B1F86F397007A3C7B /* tblviewTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC597E0A1F86F396007A3C7B /* tblviewTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AC597DF81F86F1FD007A3C7B /* Aula 18UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Aula 18UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC597DFC1F86F1FD007A3C7B /* Aula_18UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aula_18UITests.swift; sourceTree = "<group>"; };
 		AC597DFE1F86F1FD007A3C7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC597E0A1F86F396007A3C7B /* tblviewTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tblviewTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				AC597DDC1F86F1FD007A3C7B /* AppDelegate.swift */,
 				AC597DDE1F86F1FD007A3C7B /* ViewController.swift */,
 				AC597DE01F86F1FD007A3C7B /* Main.storyboard */,
+				AC597E0A1F86F396007A3C7B /* tblviewTableViewController.swift */,
 				AC597DE31F86F1FD007A3C7B /* Assets.xcassets */,
 				AC597DE51F86F1FD007A3C7B /* LaunchScreen.storyboard */,
 				AC597DE81F86F1FD007A3C7B /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC597DDF1F86F1FD007A3C7B /* ViewController.swift in Sources */,
+				AC597E0B1F86F397007A3C7B /* tblviewTableViewController.swift in Sources */,
 				AC597DDD1F86F1FD007A3C7B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
